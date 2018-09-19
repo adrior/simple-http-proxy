@@ -1,0 +1,24 @@
+{
+  "name": "simple-http-proxy",
+  "version": "1.0.0",
+  "description": "Simple HTTP Proxy for Prototyping",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrior/simple-http-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrior/simple-http-proxy/issues"
+  },
+  "homepage": "https://github.com/adrior/simple-http-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "request": "^2.88.0"
+  }
+}
